@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CloudConfigRepoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CloudConfigRepoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CloudConfigRepoApplication.class, args);
+    }
 
 }
